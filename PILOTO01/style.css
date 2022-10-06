@@ -1,0 +1,28 @@
+#divsearch{
+    border-radius:15px;
+    font-family: 'Poppins', sans-serif;
+    background-color:#9e3f3f;
+    display: flex;
+
+}
+#txtbuscar{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    background-color:black;
+
+}
+#search{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    background-color:black;
+
+}
+
+header{
+    display:flex;
+    justify-content: center; /* centralizar */
+    background-color: black;
+    width: 100%;
+
+}
+
